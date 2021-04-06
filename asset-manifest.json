@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/restful-api-app/static/css/main.f49d131a.chunk.css",
+    "main.js": "/restful-api-app/static/js/main.41ee1369.chunk.js",
+    "main.js.map": "/restful-api-app/static/js/main.41ee1369.chunk.js.map",
+    "runtime-main.js": "/restful-api-app/static/js/runtime-main.eeaa64a6.js",
+    "runtime-main.js.map": "/restful-api-app/static/js/runtime-main.eeaa64a6.js.map",
+    "static/js/2.7b17c02e.chunk.js": "/restful-api-app/static/js/2.7b17c02e.chunk.js",
+    "static/js/2.7b17c02e.chunk.js.map": "/restful-api-app/static/js/2.7b17c02e.chunk.js.map",
+    "static/js/3.dd9528fa.chunk.js": "/restful-api-app/static/js/3.dd9528fa.chunk.js",
+    "static/js/3.dd9528fa.chunk.js.map": "/restful-api-app/static/js/3.dd9528fa.chunk.js.map",
+    "index.html": "/restful-api-app/index.html",
+    "static/css/main.f49d131a.chunk.css.map": "/restful-api-app/static/css/main.f49d131a.chunk.css.map",
+    "static/js/2.7b17c02e.chunk.js.LICENSE.txt": "/restful-api-app/static/js/2.7b17c02e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeaa64a6.js",
+    "static/js/2.7b17c02e.chunk.js",
+    "static/css/main.f49d131a.chunk.css",
+    "static/js/main.41ee1369.chunk.js"
+  ]
+}
